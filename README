@@ -1,0 +1,8 @@
+# My Web App
+
+## Description
+Une application web simple qui affiche "Hello, World!".
+
+## Installation
+```sh
+npm install

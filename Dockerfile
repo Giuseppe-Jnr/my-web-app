@@ -12,7 +12,7 @@ RUN npm install
 COPY . .
 
 # Expose the port the app runs on
-EXPOSE 8080
+EXPOSE 8001
 
 # Start the app
-CMD ["npx", "http-server", "-p", "8080"]
+CMD ["npx", "http-server", "-p", "8001"]
